@@ -1,0 +1,56 @@
+   {/* <p className="card_name">
+            <span>OUR</span>COUNTRY
+          </p>
+          <p className="card__total caed__Small">INDIA</p> */}
+      {/* <li className="card">
+            <div className="card__main">
+              <div className="card_inner">
+                <p className="card_name">
+                  <span>TOTAL</span>RECOVERED
+                </p>
+                <p className="card__total caed__Small">{data.recovered}</p>
+              </div>
+            </div>
+          </li>
+          <li className="card">
+            <div className="card__main">
+              <div className="card_inner">
+                <p className="card_name">
+                  <span>TOTAL</span>CONFIREMD
+                </p>
+                <p className="card__total caed__Small">{data.confirmed}</p>
+              </div>
+            </div>
+          </li>
+          <li className="card">
+            <div className="card__main">
+              <div className="card_inner">
+                <p className="card_name">
+                  <span>TOTAL</span>DEATH
+                </p>
+                <p className="card__total caed__Small">{data.death}</p>
+              </div>
+            </div>
+          </li>
+          <li className="card">
+            <div className="card__main">
+              <div className="card_inner">
+                <p className="card_name">
+                  <span>TOTAL</span>ACTIVE
+                </p>
+                <p className="card__total caed__Small">{data.active}</p>
+              </div>
+            </div>
+          </li>
+          <li className="card">
+            <div className="card__main">
+              <div className="card_inner">
+                <p className="card_name">
+                  <span>LAST</span>UPDATED
+                </p>
+                <p className="card__total caed__Small">
+                  {data.lastupdatedtime}
+                </p>
+              </div>
+            </div>
+          </li> */}
